@@ -1,0 +1,14 @@
+# A futtatáskor generált ábrák (az elemzes.py újra létrehozza őket)
+abrak/
+
+# Python gyorsítótár
+__pycache__/
+*.pyc
+
+# Virtuális környezet
+.venv/
+venv/
+
+# Szerkesztő beállításai
+.vscode/
+.idea/
